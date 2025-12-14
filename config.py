@@ -1,7 +1,7 @@
 #Трогать, значения можно менять
-admin = [] #ID админа
-support_name = '' #Имя саппорта, будет выводиться при нажатии кнопки "поддержка"
-token = '' #Токен бота
+admin = [7504103313] #ID админа
+support_name = '@vd_dice_support' #Имя саппорта, будет выводиться при нажатии кнопки "поддержка"
+token = '8392105026:AAF5X_JrfJ9rP5lyJazv_mYcxlz3lpLr15U' #Токен бота
 client_id = "" #client_id, получается при создании приложения Юмани
 number_qiwi = '' #Номер вашего QIWI кошелька
 token_qiwi = '' #Токен киви
@@ -32,6 +32,7 @@ voucher = None
 promo = None
 winning = 0
 demobalance = 0
+
 
 
 
